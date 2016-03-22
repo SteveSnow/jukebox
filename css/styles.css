@@ -6,6 +6,7 @@
 }
 #playlistStage{
 	border: 1px solid blue;
+	width: auto;
 }
 .songContainer{	
 	border: 1px solid black;
